@@ -1,2 +1,1 @@
-# grafik-dan-visualisasi-komputer
-# grafik-dan-visualisasi-komputer
+# grafika-dan-visualisasi-komputer
