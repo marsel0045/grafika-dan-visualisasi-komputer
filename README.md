@@ -1,1 +1,1 @@
-# uts_grafika
+# grafika-dan-visualisasi-komputer
